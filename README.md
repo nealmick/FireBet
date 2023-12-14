@@ -333,15 +333,3 @@ If enabled, this feature will restore model weights from the epoch with the best
 The interface is designed to be intuitive, with interactive elements for an easy and informative user experience.
 
   
-
-# [About Project](https://nbadata.cloud/predict/faq/)
-
-[contributors-shield]: https://img.shields.io/github/contributors/nealmick/bb.svg?style=for-the-badge
-[contributors-url]: https://github.com/nealmick/bb/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/nealmick/bb.svg?style=for-the-badge
-[issues-url]: https://github.com/nealmick/bb/issues
-[stars-shield]: https://img.shields.io/github/stars/nealmick/bb.svg?style=for-the-badge
-[stars-url]: https://github.com/nealmick/bb/stargazers
-
-
-
