@@ -1,4 +1,4 @@
-# FireBet.ai - System Documentation
+# https://firebet.ai
 FireBet.ai is an advanced statistical modeling tool designed for analyzing and predicting NBA basketball game outcomes. It leverages extensive data sets and machine learning techniques to assist users in informed betting.
 
 
